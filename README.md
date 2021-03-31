@@ -2,7 +2,7 @@
 
 Derek's User Page
 
-For screenshots (i.e. Part 2) check out the other add-read-me branch
+For screenshots (i.e. Part 2) check out the other add-read-me / VScode-Readme branch
 
 Link to Derek's User Page: https://derek-hwang27.github.io/CSE-110-Lab1/
 
