@@ -11,7 +11,7 @@ And to that, I hope that I can follow it. I have to remind myself to not get too
 
 If you're interested in what I do outside of programming, check out this [section](#interests-outside-of-programming) 
 
-#
+
 #### **CSE 110 Lab 1**
 As for the first lab, I used multiple commands from git including: 
 ```
@@ -26,14 +26,14 @@ It's been a little while so i had to refresh myself.
 For more information, I'd reccommend checking out the [README file](README.md)
 
 
-#
+
 #### **Outside of CSE 110**
 For the past year, I've been doing some research into teaching techniques with [Professor Adalbert Gerald Soosai Raj](https://adalbertgerald.github.io/) 
 
 If you're interseted, you can read one of my papers on Live Coding [here!](https://dl.acm.org/doi/10.1145/3441636.3442317)
 
 
-#
+
 #### **Interests Outside of Programming**
 I'm quite a big fan of Anime and Manga. For those interested, I've gone ahead and listed a few reccomendations below
 
